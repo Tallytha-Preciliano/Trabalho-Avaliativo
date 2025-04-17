@@ -13,7 +13,7 @@ Este projeto foi desenvlvido como parte da prova avaliativa deste bimestre, reun
 - Organização de conteúdo com margens, padding e alinhamento
 - Utilização do Git e GitHub para publicação do projeto
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - HTML
 - CSS (inline)
