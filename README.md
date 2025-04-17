@@ -7,7 +7,7 @@ Este projeto foi desenvlvido como parte da prova avaliativa deste bimestre, reun
 ## Conceitos Aprendidos
 
 - Estrutura básica de um documento HTML
-- Uso de tags como "<h1>", "<p>", "<img>", entre outras
+- Uso de tags como "h1", "p", "img", entre outras
 - Aplicação de estilos com CSS inline como "background", "font-size", "border-radius", etc.
 - Aplicação e estilização de imagens
 - Organização de conteúdo com margens, padding e alinhamento
